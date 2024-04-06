@@ -1,0 +1,12 @@
+body {
+  background-color: aliceblue;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+.tweet {
+  background-color: azure;
+  font-size: small;
+  border: solid 1px;
+  border-radius: 2px;
+  padding: 15px;
+}

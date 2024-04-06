@@ -1,0 +1,19 @@
+body {
+  background-color: beige;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+.person {
+  background-color: azure;
+  font-size: small;
+  border: solid 1px;
+  border-radius: 2px;
+  padding: 15px;
+  margin-bottom: 5px;
+}
+
+.notify {
+  color: blueviolet;
+  border: 1px darkgray dotted;
+  padding: 5px 0px;
+}
